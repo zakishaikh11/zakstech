@@ -1,4 +1,4 @@
-const BASE_URL = 'http://192.168.67.168:5000/api';
+const BASE_URL = 'https://zakstech-backend.onrender.com/api';
 
 // Fetch products with optional filters
 export const fetchProducts = async (filters = {}) => {
